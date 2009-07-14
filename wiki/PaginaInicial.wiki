@@ -1,4 +1,3 @@
-
 = Framework para Dispositivos Adaptativos para Python =
 
 Este projeto tem como objetivo fornecer um framework em Python, para aqueles que desejem utilizar o formalismo de dispositivos adaptativos. 
@@ -7,7 +6,8 @@ O conceito básico deste projeto é fornecer um dispositivo adaptativo abstrato,
 
 = Conteúdo =
 
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+Este framework contém os seguintes arquivos:
+  * [http://code.google.com/p/adaptive-device-framework/wiki/AdaptiveFunction AdaptiveFunction.py]
+  * [http://code.google.com/p/adaptive-device-framework/wiki/Device Device.py]
+  * [http://code.google.com/p/adaptive-device-framework/wiki/Transition Transition.py]
+  * [http://code.google.com/p/adaptive-device-framework/wiki/Automata Automata.py]
