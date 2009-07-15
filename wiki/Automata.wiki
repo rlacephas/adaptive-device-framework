@@ -1,4 +1,4 @@
-= Automata.py =
+= [http://code.google.com/p/adaptive-device-framework/wiki/PaginaInicial Página Inicial] -> Automata.py =
 
 Este arquivo foi criado para servir de exemplo de utilização do framework.
 
