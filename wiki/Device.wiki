@@ -1,4 +1,4 @@
-= Device.py =
+= [http://code.google.com/p/adaptive-device-framework/wiki/PaginaInicial Página Inicial] -> Device.py =
 
 Este arquivo contém duas classes, a Device e a AdaptiveDevice.
 
