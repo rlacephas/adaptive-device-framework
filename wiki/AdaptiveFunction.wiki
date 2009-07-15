@@ -1,4 +1,4 @@
-= AdaptiveFunction.py =
+= [http://code.google.com/p/adaptive-device-framework/wiki/PaginaInicial Página Inicial] -> AdaptiveFunction.py =
 
 Este arquivo contém uma classe abstrata que representa as funções adaptativas que serão utilizadas pelo dispositivo sendo implementado pelo usuário. Cada função adaptativa deverá , então, ser uma especialização desta classe, onde o nome desta nova classe deve corresponder ao nome da função adaptativa.
 
