@@ -1,4 +1,4 @@
-= Transition.py =
+= [http://code.google.com/p/adaptive-device-framework/wiki/PaginaInicial Página Inicial] -> Transition.py =
 
 Este arquivo contém as classes que implementam as transições de dispositivos, tanto as subjacentes como as adaptativas. Não foi criado uma definição especifica para estados, sendo que estes vão ser implicitamente declarados nas transições.
 
