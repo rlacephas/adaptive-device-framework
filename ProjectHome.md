@@ -1,0 +1,1 @@
+Este projeto tem como objetivo fornecer um framework para facilitar a implementação de dispositivos adaptativos. Fornece algumas das primitivas previstas no formalismo adaptativo.
